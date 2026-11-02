@@ -1,20 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this bundle, please cite the paper below."
-title: "bggec-eval v1: an evaluation bundle for Bulgarian grammatical error correction"
+message: "If you use this data, please cite it as below. A paper describing it is under review."
+type: dataset
+title: "bggec-eval: test sets, system outputs and judge labels for Bulgarian grammatical error correction"
 version: "1.0"
+date-released: 2026-11-02
 authors:
   - family-names: Sultov
     given-names: Krum
   - family-names: Balabanov
     given-names: Georgi
 license: CC-BY-4.0
-preferred-citation:
-  type: article
-  title: "Better, or Just Closer to the Reference? A Propose-and-Verify System for Bulgarian Grammatical Error Correction"
-  authors:
-    - family-names: Sultov
-      given-names: Krum
-    - family-names: Balabanov
-      given-names: Georgi
-  journal: "AI"
-  year: 2026
+repository-code: "https://github.com/krsultov/bggec-eval"
