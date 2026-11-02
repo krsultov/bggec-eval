@@ -1,0 +1,25 @@
+The data in this repository is licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/,
+except for the files below.
+Copyright (c) 2026 Krum Sultov and Georgi Balabanov.
+
+data/synthetic.jsonl and outputs/synthetic.jsonl
+  Derived from UD_Bulgarian-BTB, https://github.com/UniversalDependencies/UD_Bulgarian-BTB.
+  Licensed under CC BY-NC-SA 4.0, https://creativecommons.org/licenses/by-nc-sa/4.0/.
+  Please also cite: Simov, K., Osenova, P., Simov, A., Kouylekov, M. Design and
+  Implementation of the Bulgarian HPSG-based Treebank. Research on Language and
+  Computation 2, 495-522, 2004.
+
+data/klouchek.jsonl
+  The source sentences and primary references come from Klouchek and Batista-Navarro
+  (2024), released under the Apache License 2.0,
+  https://www.apache.org/licenses/LICENSE-2.0. We added further references.
+
+judges/
+  The BgGPT labels are subject to the Gemma Terms of Use, https://ai.google.dev/gemma/terms.
+
+Web sentences
+  The source sentences in data/web-dev.jsonl, data/web-1.jsonl and data/web-2.jsonl
+  come from public web pages and forums. Their copyright stays with the original
+  authors. If you hold the rights to a sentence and want it removed, open an issue in
+  this repository.
