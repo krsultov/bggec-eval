@@ -2,7 +2,9 @@
 
 Test sets, system outputs and judge labels for the paper
 
-> Krum Sultov and Georgi Balabanov. Better, or Just Closer to the Reference? A Propose-and-Verify System for Bulgarian Grammatical Error Correction. *AI*, 2026.
+> Krum Sultov and Georgi Balabanov. Better, or Just Closer to the Reference? A Propose-and-Verify System for Bulgarian Grammatical Error Correction. Under review.
+
+Archived on Zenodo: [10.5281/zenodo.23883192](https://doi.org/10.5281/zenodo.23883192)
 
 ## Contents
 
